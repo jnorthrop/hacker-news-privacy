@@ -1,0 +1,1 @@
+This simple Python script accesses the Hacker News API to pull all "Show HN" posts, parse them for URLs then checks the found URLs to see if they mention "privacy."
